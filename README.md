@@ -31,5 +31,3 @@ A compact, artwork-aware mini media player that lives inside Vivaldi's vertical 
 ---
 
 > Building things, breaking things, and occasionally documenting them before I forget how they work.
-
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aryansinghal563@gmail.com)
