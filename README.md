@@ -1,5 +1,3 @@
-> Building things, breaking things, and occasionally documenting them before I forget how they work.
-
 I'm a CSE student interested in AI systems, backend engineering, and self-hosted infrastructure. I enjoy building practical software that sits at the intersection of AI, systems, and developer tooling.
 
 Currently, I am:
