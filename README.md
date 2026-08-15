@@ -14,3 +14,11 @@ Currently, I am:
 [![Vivaldi Mini Media Dock](https://img.shields.io/badge/Vivaldi_Mini_Media_Dock-C8102E?style=for-the-badge&logo=vivaldi&logoColor=white)](https://github.com/aryansinghal563/vivaldi-media-player)
 
 A compact, artwork-aware mini media player that lives inside Vivaldi's vertical tab bar, with playback controls, theming, and audio-reactive visuals.
+
+### Contribution Snake
+
+<picture>
+  https://raw.githubusercontent.com/aryansinghal563/aryansinghal563/output/github-snake-dark.svg
+  https://raw.githubusercontent.com/aryansinghal563/aryansinghal563/output/github-snake.svg
+  https://raw.githubusercontent.com/aryansinghal563/aryansinghal563/output/github-snake.svg
+</picture>
