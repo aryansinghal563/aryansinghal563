@@ -18,7 +18,7 @@ A compact, artwork-aware mini media player that lives inside Vivaldi's vertical 
 ### Contribution Snake
 
 <picture>
-  https://raw.githubusercontent.com/aryansinghal563/aryansinghal563/output/github-snake-dark.svg
-  https://raw.githubusercontent.com/aryansinghal563/aryansinghal563/output/github-snake.svg
-  https://raw.githubusercontent.com/aryansinghal563/aryansinghal563/output/github-snake.svg
+  <source media="(prefers-color-scheme: darkghal563/aryansinghal563/output/github-snake-dark.svg
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aryansinghal563/aryansinghal563/output/github-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/aryansinghal563/aryansinghal563/output/github-snake.svg">
 </picture>
